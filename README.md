@@ -1,0 +1,2 @@
+# dostup
+boshqalar tahrillashi uchun
